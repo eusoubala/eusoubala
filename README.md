@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p> Sou aluno do curso de desenvolvimento de siatemas<br/> Eu sou bom em praticar esportes</p>
+<p> Sou aluno do curso de desenvolvimento de sistemas<br/> Eu sou bom em praticar esportes</p>
